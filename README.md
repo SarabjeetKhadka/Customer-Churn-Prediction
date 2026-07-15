@@ -331,3 +331,62 @@ By comparing Logistic Regression, Decision Tree, and Random Forest classifiers, 
 The insights generated through exploratory data analysis, feature importance evaluation, and model comparison can help organizations improve customer retention and support strategic decision-making.
 
 Customer churn prediction serves as a practical example of how machine learning can create measurable business value through proactive customer management.
+
+
+## NOTE FOR PROJECT STRUCTURE
+
+Section 1:
+
+Project Introduction
+
+Section 2:
+
+Import Required Libraries
+
+Section 3:
+
+Load Dataset
+
+Section 4:
+
+Exploratory Data Analysis
+
+Section 5:
+
+Data Preprocessing
+
+Section 6:
+
+Feature & Target Separation
+
+Section 7:
+
+Train-Test Split
+
+Section 8:
+
+Model Training
+
+Section 9:
+
+Model Evaluation
+
+Section 10:
+
+Confusion Matrix Analysis
+
+Section 11:
+
+ROC Curve & AUC Analysis
+
+Section 12:
+
+Feature Importance Analysis
+
+Section 13:
+
+Final Model Comparison
+
+Section 14:
+
+Conclusion
